@@ -3,32 +3,26 @@
 Esta aplicación web nos permite crear una tarjeta de visita personalizada. En la página web podemos introducir nuestros datos profesionales y obtener una vista maquetada con esta información. 
 
 ## Tecnologias
-GULP + Starterkit proporcionado por Adalab
-HTML
-CSS
-Saas
-JavaScript
-GitHub Pages
-metodología Agile - Scrum para el seguimiento y planificación del producto
+
+🔸HTML    
+🔸CSS    
+🔸Saas    
+🔸JavaScript    
+🔸GULP + Starterkit proporcionado por Adalab    
+🔸GitHub Pages    
+🔸metodología Agile - Scrum para el seguimiento y planificación del producto    
 
 
 ## Especificaciones
 En el desarrollo de esta aplicación web usamos las siguientes tecnologías:
-📍Uso avanzado de formularios HTML
-
-📍Maquetación usando CSS avanzado, como flex y grid
-
-📍Uso de mediaqueries para que el diseño sea adaptable al dispositivo usando la estrategia mobile first
-
-📍Gestión de eventos en el navegador (al hacer click, pasa x, etc.)
-
-📍Acceso y envío de datos a un servidor
-
-📍Almacenamiento en local usando LocalStorage
-
-📍Uso de git para el control de versiones del proyecto
-
-📍Publicación del resultado en Internet usando GitHub Pages
+📍Uso avanzado de formularios HTML    
+📍Maquetación usando CSS avanzado, como flex y grid    
+📍Uso de mediaqueries para que el diseño sea adaptable al dispositivo usando la estrategia mobile first    
+📍Gestión de eventos en el navegador (al hacer click, pasa x, etc.)    
+📍Acceso y envío de datos a un servidor    
+📍Almacenamiento en local usando LocalStorage    
+📍Uso de git para el control de versiones del proyecto    
+📍Publicación del resultado en Internet usando GitHub Pages    
 
 
 💼 El proyecto consta de 2 páginas:
