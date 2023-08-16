@@ -2,7 +2,7 @@
 # Proyecto 2. Awesome profile-cards
 Esta aplicación web nos permite crear una tarjeta de visita personalizada. En la página web podemos introducir nuestros datos profesionales y obtener una vista maquetada con esta información. 
 
-## Tecnologias
+## Tecnologías
 
 🔸HTML    
 🔸CSS    
