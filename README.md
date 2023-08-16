@@ -1,5 +1,6 @@
+![image](https://github.com/Lourdesjupo/Card-Generator-Adalab-Teamproject/assets/126502912/d3c51541-1670-4a11-b4b4-aa669238b5ab)
 
-# Proyecto 2. Awesome profile-cards
+# Awesome profile-cards
 Esta aplicación web nos permite crear una tarjeta de visita personalizada. En la página web podemos introducir nuestros datos profesionales y obtener una vista maquetada con esta información. 
 
 ## Tecnologías
